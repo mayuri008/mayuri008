@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <b>My name is mayuri and this is my github profile</b><br><b>I'm 17-18 years old and I've been developer for 6 years, see more about me below :3</b>
+  <b>My name is mayuri and this is my github profile</b><br><b>I'm 17-18 years old and I've been developer for 1 years, see more about me below :3</b>
 </div>
 <hr>
 
